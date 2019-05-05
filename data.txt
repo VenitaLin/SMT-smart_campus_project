@@ -1,0 +1,683 @@
+﻿School|Prof Name|Course Name|Course ID
+SOE|Ho Kong Weng|Introductory Economics|ECON001
+SOE|Yumi Koh|Introductory Economics|ECON001
+SOE|Larry Haverkamp|Introductory Economics|ECON001
+SOE|Wong Fot Chyi|Introductory Economics|ECON001
+SOE|Huang Fali|Intermediate Microeconomics|ECON101
+SOE|Lona Hyojung Lee|Intermediate Microeconomics|ECON101
+SOE|Zhang Yichong|Introduction to Econometrics|ECON107
+SOE|Toh Mun Heng|Introduction to Econometrics|ECON107
+SOE|Yap Wei Yim|Maritime Economics & Shipping Finance|ECON131
+SOE|Yap Wei Yim|Port Economics & Management|ECON132
+SOE|Madhav Aney|Development Economics|ECON204
+SOE|Shurojit Chatterji|Game Theory|ECON206
+SOE|Jungho Lee|Labour Economics|ECON209
+SOE|Hoon Hian Teck|Monetary Economics|ECON210
+SOE|Christine Ho|Public Sector Economics|ECON211
+SOE|Kim Seonghoon|Health Economics|ECON215
+SOE|Jeslyn Tan|Economics of Ageing|ECON216
+SOE|Hoon Hian Teck|Economic Growth|ECON220
+SOE|Jessica Sun Ya|Health Systems and Policy|ECON225
+SOE|Hsu Wen-Tai|Urban Economics and Policy|ECON226
+SOE|Anthony Tay|Economic Forecasting|ECON233
+SOE|Ho Kong Weng|Family & Society: Econ Theories & Prac|ECON240
+SOE|Xue Jingyi|Strategic Thinking|ECON241
+SOE|Ismail Baydur|Advanced Macroeconomics|ECON237
+SOE|Tse Yiu Kuen|Financial Mathematics|STAT203
+SOE|Kwong Koon Shing|Introductory Statistics|STAT101
+SOE|Liu Shew Fan|Introductory Statistics|STAT101
+SOE|Rosie Ching|Introductory Statistics|STAT101
+SOE|Wu Zhengxiao|Introductory Statistics|STAT101
+SOE|Raymond Teo|Introductory Statistics|STAT101
+SOE|Yeo Keng Leong|Introductory Statistics|STAT101
+SOE|Chow Hwee Kwan|Introduction to Statistical Theory|STAT151
+SOE|Wu Zhengxiao|Survey Methods|STAT204
+SOE|Kwong Koon Shing|Life Contingent Risks|STAT310
+SOE|Eric Seah|Quantitative Risk Analysis|STAT313
+SOE|Gea Myoung Lee|Intermediate Mathematics for Economics|ECON205
+SOE|Tomoki Fujii|Economic Development in Asia|ECON118
+SOE|Sunha Myong|Economic Development in Asia|ECON118
+SOE|Hong Bei|Economics of Globalisation|ECON113
+SOE|Tan Kim Song|Economics of Globalisation|ECON113
+SOE|Tan Swee Liang|Economics of Globalisation|ECON113
+SOE|Huynh Bao Tan|Economics of Globalisation|ECON113
+SOE|Lam San Ling|Economics of Globalisation|ECON113
+SOE|Augustine Tan|Economics of Globalisation|ECON113
+SOE|Low Aik Meng|Scholars Study Mission|IDIS300
+SOSS|Tan Sor Hoon|Analytical Skills|IDIS001
+SOSS|Elena Ziliotti|Analytical Skills|IDIS001
+SOSS|Steven Burik|Critical Thinking in the Real World|IDIS002
+SOSS|Matthew Hammerton|Critical Thinking in the Real World|IDIS002
+SOSS|Sovan Patra|Critical Thinking in the Real World|IDIS002
+SOSS|Ivy Lau|Introduction to Psychology|PSYC001
+SOSS|Andree Hartanto|Introduction to Psychology|PSYC001
+SOSS|Jacinth Tan|Introduction to Psychology|PSYC001
+SOSS|Devin Joshi|Introduction to Political and Policy Studies|POSC003
+SOSS|Colm Fox|Introduction to Political and Policy Studies|POSC003
+SOSS|Nafis Hanif|Understanding Societies|SOCG001
+SOSS|Aliya Rao|Understanding Societies|SOCG001
+SOSS|Hiro Saito|Understanding Societies|SOCG001
+SOSS|Jacob Ricks|Introduction to Public Policy|POSC101
+SOSS|Kim Inwook|World Politics|POSC103
+SOSS|Devin Joshi|Comparing Political Systems|POSC203
+SOSS|Yeo Lay Hwee|European Union Politics|POSC211
+SOSS|Jacob Ricks|Politics of South East Asia|POSC213
+SOSS|Onur Ulas Ince|Global Political Economy|POSC218
+SOSS|Onur Ulas Ince|Political Theory|POSC219
+SOSS|Kim Inwook|International Relations of East Asia|POSC220
+SOSS|Darlene Espena|Special Topics in Political Issues|POSC306
+SOSS|John Donaldson|Development, Underdevelopment and Poverty|POSC310
+SOSS|Andree Hartanto|Cognitive Psychology|PSYC103
+SOSS|Yang Hwajin|Developmental Psychology|PSYC104
+SOSS|Cheng Chi-Ying|Psychology of Individual Differences|PSYC107
+SOSS|Norman Li|Social Psychology|PSYC108
+SOSS|Kimin Eom|Social Psychology|PSYC108
+SOSS|Kenneth Tan|Social Psychology|PSYC108
+SOSS|Grace Park|Psychology of Group Processes and Decision-Making|PSYC109
+SOSS|Andree Hartanto|Psychology Research Methods I|PSYC110
+SOSS|Brandon Koh|Psychology Research Methods I|PSYC110
+SOSS|Tsai Ming-Hong|Psychology of Reasoning and Thinking|PSYC204
+SOSS|Norman Li|Evolutionary Psychology|PSYC205
+SOSS|Angela Leung|Psychology of Motivation|PSYC207
+SOSS|William Tov|Psychology Research Methods II|PSYC208
+SOSS|Angela Leung|Psychology Study Mission: Culture and Creativity|PSYC307
+SOSS|Cheng Chi-Ying|Psychology Study Mission: Culture and Creativity|PSYC307
+SOSS|Paulin Straughan|Research Methods in Sociology and Political Science|IDIS100
+SOSS|Michael Genkin|Research Methods in Sociology and Political Science|IDIS100
+SOSS|Ijlal Naqvi|Contemporary South Asian Societies|SOCG109
+SOSS|Yasmin Ortiga|Social Stratification and Inequality|SOCG201
+SOSS|Bussarawan Teerawichitchainan|Gender and Family|SOCG203
+SOSS|Forrest Zhang|Understanding China's Economic Miracle: Social Origins and Social Impact|SOCG208
+SOSS|Alwyn Lim|Global and Transnational Sociology|SOCG219
+SOSS|Michael Genkin|Sociology of Terrorism and Political Violence|SOCG220
+SOSS|Nafis Hanif|Sociological Theories of Crime and Deviance|SOCG221
+SOSS|Hiro Saito|Nation-Building in Asia|SOCG222
+SOSS|Aliya Rao|Sociology of Work|SOCG224
+SOSS|Yasmin Ortiga|Migration and Urbanization|SOCG225
+SOSS|Paulin Straughan|Medical Sociology|SOCG226
+SOSS|Alwyn Lim|Economic Sociology|SOCG305
+SOSS|Forrest Zhang|Sociology Study Mission|SOCG306
+SOSS|Ijlal Naqvi|Sociology Study Mission|SOCG306
+SOSS|Jacob Ricks|Capstone Seminar|SSCS400
+SOSS|Angela Leung|Capstone Seminar|SSCS400
+SOSS|Grace Park|Capstone Seminar|SSCS400
+SOSS|Tsai Ming-Hong|Capstone Seminar|SSCS400
+SOSS|Yang Hwajin|Capstone Seminar|SSCS400
+SOSS|Hoe Su Fern|Introduction to Arts Management|ACM003
+SOSS|Hoe Su Fern|Advanced Arts and Culture Management|ACM004
+SOSS|David Ocon|Art History: From the Beginnings to the Revolutions|ACM101
+SOSS|Kwok Kian Chow|Art in Southeast Asia|ACM208
+SOSS|David Ocon|Arts and Cultural Marketing|ACM212
+SOSS|David Ocon|Understanding Cultural Cooperation in Asia|ACM213
+SOSS|Kwok Kian Chow|Exhibitions and Curating|ACM304
+SOSS|Hoe Su Fern|Arts, Culture and the Global City|ACM306
+SOSS|Eleanor Tan|Music: East and West|MUSC001
+SOSS|Charlotte Setijadi|Exploring Asian Identities|GA001
+SOSS|Brenda Chan|Popular Culture in Asia|GA201
+SOSS|Charlotte Setijadi|History of Southeast Asia|GA203
+SOSS|Charlotte Setijadi|Managing Diversity in Asia|GA205
+SOSS|Margaret Chan|Cultural Identities and the Art|HUMN004
+SOSS|Ishani Mukherjee|Public Sector Management|PPPM101
+SOSS|Ishani Mukherjee|Policy Design and Analysis|PPPM106
+SOSS|Ryan Merrill|Environmental Politics and Policy|PPPM201
+SOSS|John Donaldson|Public Policy Task Force|PPPM301
+SOSS|Stephanie Burridge|Dance: East and West|FNAR001
+SOSS|Francois Bretault|French|FNCH201
+SOSS|Siri Ramaswami|A Cultural Introduction to India: From Indus Valley to Infosys|HUMN017
+SOSS|Aidan Wong|Singapore: Imagining the Next Fifty Years|HUMN020
+SOSS|Darlene Espena|Film in Southeast Asia|HUMN022
+SOSS|Aidan Wong|Urban Cultures|IDIS003
+SOSS|Matthew Hammerton|Big Questions (Happiness and Suffering)|IDIS004
+SOSS|Orlando Woods|Big Questions (Happiness and Suffering)|IDIS004
+SOSS|Darlene Espena|Big Questions (Happiness and Suffering)|IDIS004
+SOSS|Elvin Lim|Big Questions (Happiness and Suffering)|IDIS004
+SOSS|Fiona Williamson|Science, Environment and Empire|IDIS005
+SOSS|Orlando Woods|Digital Cultures|IDIS006
+SOSS|Fiona Williamson|Climate, History and Society|IDIS007
+SOSS|Darlene Espena|Cultural History of the Cold War in Asia|IDIS008
+SOSS|Thomas Ewing|Intellectual Assets, Technology and Society|IDIS009
+SOSS|Henrik Olsson|Intellectual Assets, Technology and Society|IDIS009
+SOSS|Thomas Menkhoff|Understanding Drone & Robotic Technology - History, Usage, Ethics & Legal Issues|IDIS103
+SOSS|Kan Siew Ning|Understanding Drone & Robotic Technology - History, Usage, Ethics & Legal Issues|IDIS103
+SOSS|Eugene Tan|Understanding Drone & Robotic Technology - History, Usage, Ethics & Legal Issues|IDIS103
+SOSS|Francesca Benvenuti|Italian|ITAL201
+SOSS|Yoko Morikawa|Japanese|JPAN201
+SOSS|Seo Ji Yun|Korean|KREA201
+SOSS|Wang Shengyu|Mandarin|MAND201
+SOSS|Sahri Md Salleh|Bahasa Melayu|MLAY201
+SOSS|Marijo Romero|Spanish|SPAN201
+SOSS|Gobinathan Nair|Principles of Coaching in Sports|SPRT001
+SOSS|Suksri Lumprasert|Thai|THAI201
+SIS|Mei Lin|Information Systems & Innovation in Smart Cities|SMT110
+SIS|Mei Lin|Information Systems & Innovation|IS110
+SIS|Qian Tang|Information Systems & Innovation|IS110
+SIS|Jing Jiang|Introduction to Programming|IS111
+SIS|Joelle Elmaleh|Introduction to Programming|IS111
+SIS|Yeow Leong Lee|Introduction to Programming|IS111
+SIS|Akshat Kumar|Computer as an Analysis Tool|IS102
+SIS|Dai Bing Tian|Computer as an Analysis Tool|IS102
+SIS|Dan Ma|Computer as an Analysis Tool|IS102
+SIS|Kyong Jin Shim|Computer as an Analysis Tool|IS102
+SIS|Manoj Thulasidas|Computer as an Analysis Tool|IS102
+SIS|Michelle Cheong|Computer as an Analysis Tool|IS102
+SIS|Wang Hai|Computer as an Analysis Tool|IS102
+SIS|Youngsoo Kim|Computer as an Analysis Tool|IS102
+SIS|Zhiling Guo|Computer as an Analysis Tool|IS102
+SIS|Hady Lauw|Computational Thinking|IS103
+SIS|Rajesh Balan|Software Engineering|IS203
+SIS|Paul Griffin|Software Engineering|IS203
+SIS|Youngki Lee|Software Engineering|IS203
+SIS|Kevin Steppe|Architectural Analysis|IS303
+SIS|Alan Megargel|Architectural Analysis|IS303
+SIS|Swapna Gottipati|Process Modeling & Solution Blueprinting|IS304
+SIS|Rafael Barros|Process Modeling & Solution Blueprinting|IS304
+SIS|Kar Way Tan|Enterprise Web Solutions|IS305
+SIS|Koh Kwan Chin|Enterprise Web Solutions|IS305
+SIS|Kok Khing Lee|Interaction Design and Prototyping|IS306
+SIS|Lingxiao Jiang|IS Application Project|IS480
+SIS|Steven Hoi|IS Application Project|IS480
+SIS|Patrick Thng|IS Application Project|IS480
+SIS|Xiong Jie|IS Application Project|IS480
+SIS|Hwee Pink Tan|IS Application Project|IS480
+SIS|Debin Gao|Networking|IS204
+SIS|Venky Shankararaman|Enterprise Business Solution|IS412
+SIS|Patrick Thng|Retail Banking Processes and Technology|IS419
+SIS|Gerard Tong|Financial Markets Processes and Technology|IS423
+SIS|Steven Hoi|Data Mining and Business Analytics|IS424
+SIS|Annie Ng|Advanced Seminar on Information Systems Management|IS425
+SIS|Tin Seong Kam|Visual Analytics for Business Intelligence|IS428
+SIS|Enoch Chng|ePayments Processes and Technology|IS430
+SIS|Siew Ning Kan|Public Sector Systems|IS432
+SIS|Kyong Jin Shim|Social Analytics & Applications|IS434
+SIS|Yingjiu Li|Data Security and Privacy|IS436
+SIS|Debin Gao|Software and Systems Security|IS437
+SIS|Hwee Pink Tan|Internet of Things: Technology and Applications|IS439
+SIS|Li Yingjiu|Guided Research in Information Systems|IS470
+SIS|Li Yingjiu|Guided Research in Information Systems 2|IS471
+SIS|Tin Seong Kam|Analytics Practicum|ANLY482
+SIS|Ee Peng Lim|Data Management|IS112
+SIS|Kyriakos Mouratidis|Data Management|IS113
+SIS|Baihua Zheng|Data Management|IS114
+SIS|Li Yuchen|Data Management|IS115
+SIS|Vandana Rao / Fiona Lee|Data Management|IS116
+SIS|Yeow Leong Lee|Web Application Development|IS113
+SIS|Kyong Jin Shim|Web Application Development|IS114
+SIS|David Lo|Web Application Development|IS115
+SIS|Pradeep Varakantham|Computer as an Analysis Tool|IS102
+SIS|Feida Zhu|Computer as an Analysis Tool|IS102
+SIS|Wang Qiuhong|Computer as an Analysis Tool|IS102
+SIS|Aldy Gunawan|Computer as an Analysis Tool|IS102
+SIS|Arindam Chatterjee|Computer as an Analysis Tool|IS102
+SIS|Siraj Iqbal|Computer as an Analysis Tool|IS102
+SIS|Shih-Fen Cheng|Computational Thinking|IS103
+SIS|Xuhua Ding|Computational Thinking|IS103
+SIS|Lingxiao Jiang|Enterprise Integration|IS301
+SIS|Venky Shankararaman|Enterprise Integration|IS301
+SIS|Alan Megargel|Enterprise Integration|IS301
+SIS|Xuhua Ding|Information Security and Trust|IS302
+SIS|Debin Gao|Information Security and Trust|IS302
+SIS|Yingjiu Li|Information Security and Trust|IS302
+SIS|Ouh Eng Lieh|Architectural Analysis|IS303
+SIS|Mok Heng Ngee|Architectural Analysis|IS303
+SIS|Swapna Gottipati|Enterprise Web Solutions|IS305
+SIS|Rafael Barros|Enterprise Web Solutions|IS305
+SIS|Benjamin Gan|Interaction Design and Prototyping|IS306
+SIS|Kotaro Hara|Interaction Design and Prototyping|IS306
+SIS|Paul Griffin|Interaction Design and Prototyping|IS306
+SIS|Benjamin Gan|IS Application Project|IS480
+SIS|Rafael Barros|IS Application Project|IS480
+SIS|Paul Griffin|IS Application Project|IS480
+SIS|Tan Hwee Xian|IS Application Project|IS480
+SIS|Youngki Lee|IS Application Project|IS480
+SIS|Xuhua Ding|Network Security|IS403
+SIS|Benjamin Gan|Technopreneurship Study Mission|IS.405
+SIS|Kyriakos Mouratidis|Advanced Data Management|IS410
+SIS|Tin Seong Kam|Geospatial Analytics and Business Intelligence|IS415
+SIS|Thivya Kandappu|Mobile & Pervasive Technology|IS416
+SIS|Swapna Gottipati|Data Warehousing and Business Analytics|IS417
+SIS|Shih-Fen Cheng|Agent-based Modeling and Simulation|IS418
+SIS|Hoong Chuin Lau|Enterprise Analytics for Decision Support|IS421
+SIS|Yuet Nan Wong|Advanced Seminar on Information Systems Management|IS425
+SIS|Siew Ning Kan|Systems for Intelligent Cities|IS435
+SIS|Enoch Chng|Financial Technology Study Mission|IS.438
+SIS|Yeow Leong Lee|Object Oriented Programming|IS442
+SIS|Course Coordinator (Benjamin Gan)|IS Application Project 2|IS481
+SIS|Seema Chokshi|Analytics Foundations|ANLY104
+SIS|Manoj Thulasidas|Analytics Foundations|ANLY104
+SIS|Kar Way Tan|Analytics Foundations|ANLY104
+SOB|Akanksha Rath|Management Communication|COMM101
+SOB|Chan Boh Yee|Management Communication|COMM101
+SOB|Farooq Jamil Alvi|Management Communication|COMM101
+SOB|Gwendoline Anne Lim Siu Kiao|Management Communication|COMM101
+SOB|Ho Jack Yong|Management Communication|COMM101
+SOB|Lindy Ong|Management Communication|COMM101
+SOB|Mehdi Namazie|Management Communication|COMM101
+SOB|Serena Lim|Management Communication|COMM101
+SOB|Shyamala Deenathayalan|Management Communication|COMM101
+SOB|Sunita Anne Abraham|Management Communication|COMM101
+SOB|Vandana Advani|Management Communication|COMM101
+SOB|Yeo Su Lin|Foundations in Corporate Communication|COMM102
+SOB|Ong Siow Heng|Intercultural Communication|COMM120
+SOB|Shyamala Deenathayalan|Intercultural Communication|COMM120
+SOB|Augustine Pang|Fundamentals of Media Engagement|COMM121
+SOB|Mark Chong Yiew Kim|The Communication and Digital Media Industries|COMM216
+SOB|Georgette Tan|Organisational Communication|COMM245
+SOB|Augustine Pang|Crisis Management and Communication|COMM246
+SOB|Shyamala Deenathayalan|Corporate Culture and Values|COMM254
+SOB|Ong Siow Heng|Corporate Culture and Values|COMM254
+SOB|Sungjong Roh|Psychology of Strategic Communication|COMM302
+SOB|Mark Chong Yiew Kim|Story Craft for Business in Emerging markets|COMM320
+SOB|Janice Armstrong|Story Craft for Business in Emerging markets|COMM320
+SOB|Yeo Su Lin|Strategic Communication in Asia|COMM334
+SOB|Tracy Loh|Communication Strategies in the Digital Age|COMM346
+SOB|Aurobindo Ghosh|Finance|FNCE101
+SOB|David Ding|Finance|FNCE101
+SOB|Jeremy Goh|Finance|FNCE101
+SOB|Wang Wei Mun|Finance|FNCE101
+SOB|Ke Jinghao|Finance|FNCE101
+SOB|Ekkehart Boehmer|Financial Instruments, Institutions and Markets|FNCE102
+SOB|Li Weikai|Financial Instruments, Institutions and Markets|FNCE102
+SOB|Karen Gan|Financial Instruments, Institutions and Markets|FNCE102
+SOB|David Ding|Finance for Law (for LLB)|FNCE103
+SOB|Clemens Otto|Corporate Finance|FNCE201
+SOB|John Martin Sequeira|Corporate Finance|FNCE201
+SOB|Chiraphol New Chiyachantana|Analysis of Equity Investment|FNCE203
+SOB|Gloria Yu|International Finance|FNCE210
+SOB|Liang Hao|Entrepreneurial Finance|FNCE213
+SOB|Daniel A. Stone|Consumer Banking|FNCE225
+SOB|Daniel A. Stone|Corporate Banking|FNCE229
+SOB|Francis Koh Cher Chiew|Real Estate Investments and Finance|FNCE231
+SOB|Ku Swee Yong|Real Estate Investments and Finance|FNCE231
+SOB|Ang Sock Tiang|Real Estate Valuation and Taxation|FNCE234
+SOB|Tan Eng Khiam|Real Estate Development|FNCE235
+SOB|Tu Jun|Analysis of Derivative Securities|FNCE305
+SOB|Jayesh Avlani|Trade Finance|FNCE310
+SOB|Cheng Yam San|Trade Finance|FNCE310
+SOB|Ang Ser Keng|Mergers & Acquisitions|FNCE311
+SOB|Liang Hao|Sustainable Finance|FNCE314
+SOB|Ting Hian Ann|Calculus|MATH001
+SOB|Christopher|Calculus|MATH001
+SOB|Neo Kok Beng|Technology & World Change|MGMT002
+SOB|Pang Eng Fong|Technology & World Change|MGMT002
+SOB|Rajah Kumar|Technology & World Change|MGMT002
+SOB|Andrew Min Han Chin|Business, Government & Society|MGMT003
+SOB|Chan Kay Min|Business, Government & Society|MGMT003
+SOB|Elizabeth Su|Business, Government & Society|MGMT003
+SOB|Er Jwee Ping|Business, Government & Society|MGMT003
+SOB|Francis Pavri|Business, Government & Society|MGMT003
+SOB|Gilbert Tan Yip Wei|Business, Government & Society|MGMT003
+SOB|Joergen Oerstroem Moeller|Business, Government & Society|MGMT003
+SOB|Loo Khee Sheng|Business, Government & Society|MGMT003
+SOB|Alan Tea|Creative Thinking|MGMT004
+SOB|Cindy Ong|Creative Thinking|MGMT004
+SOB|Goh Ban Eng|Creative Thinking|MGMT004
+SOB|Khoo Hock Seng|Creative Thinking|MGMT004
+SOB|Lim Boon Chye|Creative Thinking|MGMT004
+SOB|Don Chen Jiaqing|Managing in a VUCA context|MGMT005
+SOB|Venkat|Managing in a VUCA context|MGMT005
+SOB|Whitney Zhang|Managing in a VUCA context|MGMT005
+SOB|Abhijith Geethakrishna Acharya|Strategy|MGMT102
+SOB|Daniel Mack|Strategy|MGMT102
+SOB|Kim Chang Hyun|Strategy|MGMT102
+SOB|Patrick Tan Siong Kuan|Strategy|MGMT102
+SOB|Say Gui Deng|Strategy|MGMT102
+SOB|Tracy Li|Strategy|MGMT102
+SOB|Terence Fan Ping-Ching|Strategy|MGMT102
+SOB|Victor Goh|Strategy|MGMT102
+SOB|Victor Goh|Corporate Entrepreneurship and Innovation|MGMT104
+SOB|Gokhan Ertug|" Introduction to Organisations"|MGMT106
+SOB|Abhijith Geethakrishna Acharya|International Business|MGMT205
+SOB|Judy Tan|International Business|MGMT205
+SOB|David Gomulya|Entrepreneurship & Business Creation|MGMT218
+SOB|Jeremy Loh|Entrepreneurship & Business Creation|MGMT218
+SOB|Roger Low|Family Business|MGMT222
+SOB|Kenneth Goh|Social Entrepreneurship|MGMT223
+SOB|Gilbert Tan Yip Wei|Managing Creativity in Organizations|MGMT227
+SOB|Pang Eng Fong|Leadership Seminar with CEOs|MGMT233
+SOB|Ted Feichin Tschang|Sustainability Management and Governance|MGMT235
+SOB|Geng Xuesong|Managing Strategic Change|MGMT236
+SOB|Ted Feichin Tschang|Play in Invention and Culture|MGMT239
+SOB|Thomas Menkhoff|Doing Business with Artificial Intelligence|MGMT240
+SOB|Kan Siew Ning|Doing Business with Artificial Intelligence|MGMT240
+SOB|Gordon Perchthold|Business Capstone Course|MGMT300
+SOB|Fong Whye Choo|Business Capstone Course|MGMT300
+SOB|Josephine Kang Poh Tin|Business Capstone Course|MGMT300
+SOB|Pang Eng Fong|Business Capstone Course|MGMT300
+SOB|Patrick Tan Siong Kuan|Business Capstone Course|MGMT300
+SOB|Stephen Matthias Harney|Business Capstone Course|MGMT300
+SOB|Vivien Koh|Business Capstone Course|MGMT300
+SOB|Christopher Khor|Business Capstone Course|MGMT300
+SOB|Ruth Chiang|Business Capstone Course|MGMT300
+SOB|Yong Hsin Ning|Business Capstone Course|MGMT300
+SOB|Stacey Huang|Business Capstone Course|MGMT300
+SOB|Nina Tan|Leading New Ventures to Growth|MGMT310
+SOB|Lieven Demeester|Managing Process Improvement|MGMT317
+SOB|William Fong|Managing Process Improvement|MGMT317
+SOB|Koh Zhixiu|Design Thinking and Innovation|MGMT318
+SOB|Terence Fan Ping-Ching|Management of Technology and Innovation|MGMT319
+SOB|Thomas Menkhoff|Innovations for Asia's Smart Cities|MGMT320
+SOB|Kan Siew Ning|Innovations for Asia's Smart Cities|MGMT320
+SOB|Reddi Rayalu Kotha|Entrepreneurship Practicum|MGMT327
+SOB|Thomas Menkhoff|Business Study Mission ( China's Belt and Road Initiative)|MGMT301
+SOB|Andrew Min Han Chin|Business Study Mission ( China's Belt and Road Initiative)|MGMT301
+SOB|Toru Yoshikawa|Business Study Mission (Asian Studies) - Japan|MGMT301
+SOB|Dennis Ng|Marketing|MKTG101
+SOB|Han Jin Kyung|Marketing|MKTG101
+SOB|Havovi Heerjee Joshi|Marketing|MKTG101
+SOB|Seh-Woong Chung|Marketing|MKTG101
+SOB|Seshan Ramaswami|Marketing|MKTG101
+SOB|Jung Kyun Kim|Consumer Behaviour|MKTG102
+SOB|Stephanie Lin|Consumer Behaviour|MKTG102
+SOB|Christilene Du Plessis|Marketing Research|MKTG103
+SOB|Hulya Karaman|Marketing Research|MKTG103
+SOB|Patricia Lui|Services Marketing|MKTG204
+SOB|Dennis Ng|Advertising|MKTG205
+SOB|Dennis Ng|Strategic Brand Management|MKTG217
+SOB|Geoffrey Da Silva|Retail Management|MKTG219
+SOB|Patricia Lui|Digital Marketing|MKTG220
+SOB|Geoffrey Da Silva|Global Marketing|MKTG221
+SOB|Raymond Teo|Customer Relationship Management|MKTG225
+SOB|Tan Boon Ann|Pricing|MKTG313
+SOB|Geoffrey Da Silva|Retail Strategy|MKTG314
+SOB|Hanoi Lok|Leadership & Teambuilding|OBHR001
+SOB|Kenneth Tai|Leadership & Teambuilding|OBHR001
+SOB|Lee Boon Chuan|Leadership & Teambuilding|OBHR001
+SOB|Paul Lim Heng Leong|Leadership & Teambuilding|OBHR001
+SOB|John Chen|Leadership & Teambuilding|OBHR001
+SOB|Png Bee Hin|Leadership & Teambuilding|OBHR001
+SOB|Rani Tan|Leadership & Teambuilding|OBHR001
+SOB|Roger Low|Leadership & Teambuilding|OBHR001
+SOB|Tang Dick Shun|Leadership & Teambuilding|OBHR001
+SOB|Abhijeet K. Vadera|Ethics and Coporate Responsibility|OBHR002
+SOB|Melvyn Chew|Ethics and Coporate Responsibility|OBHR002
+SOB|Tan Boon Heon|Ethics and Coporate Responsibility|OBHR002
+SOB|Thomas Menkhoff|Transformative Leadership|OBHR003
+SOB|Kan Siew Ning|Transformative Leadership|OBHR003
+SOB|Michael Schaerer|Management of People at Work|OBHR101
+SOB|Ronald Bledow|Management of People at Work|OBHR101
+SOB|Shereen Fatimah|Management of People at Work|OBHR101
+SOB|Tan Hwee Hoon|Management of People at Work|OBHR101
+SOB|Jared Nai|Human Capital Management|OBHR201
+SOB|Filip Lievens|Personnel Selection|OBHR203
+SOB|Chow Wai Fong|Training & Development|OBHR204
+SOB|Chow Wai Fong|Organisational Change & Design|OBHR215
+SOB|Jared Nai|Business Negotiation & Conflict Management|OBHR222
+SOB|Paul Lim Heng Leong|The Mosaic of Leadership|OBHR231
+SOB|Paul Lim Heng Leong|Millennial Talent Management Recruitment And Engagement (Indonesia)|OBHR233
+SOB|Brian Rodrigues|Decision Analysis|OPIM101
+SOB|Joyce Low Mei Wan|Decision Analysis|OPIM101
+SOB|Liew Sing Loon|Decision Analysis|OPIM101
+SOB|Low Chee Seng|Decision Analysis|OPIM101
+SOB|Marcus Ang Teck Meng|Decision Analysis|OPIM101
+SOB|Onur Boyabatli|Decision Analysis|OPIM101
+SOB|Sean Lam|Decision Analysis|OPIM101
+SOB|Sharafali Moosa|Decision Analysis|OPIM101
+SOB|Buket Avci|Operations Management|OPIM201
+SOB|Helen Zhou Yangfang|Operations Management|OPIM201
+SOB|Wee Kwan Eng|Operations Management|OPIM201
+SOB|Yang Kum Khiong|Operations Management|OPIM201
+SOB|Marcus Ang Teck Meng|Service Processes|OPIM311
+SOB|Sean Lam|Service Processes|OPIM311
+SOB|Pascale Crama|Project Management|OPIM313
+SOB|Joyce Low Mei Wan|Logistics and Transportation Management|OPIM314
+SOB|Low Chee Seng|Supply Chain Management|OPIM321
+SOB|Zeller Alan William|Supply Chain Management|OPIM321
+SOB|Lim Yun Fong|High Performance Warehousing and Fulfillment|OPIM322
+SOB|Neo Kin Kah|Global Supply Chains|OPIM324
+SOB|Kaushik Ghatak|Sales and Operations Planning|OPIM325
+SOB|Ting Hian Ann Christopher|Quantitative Fiance|QF101
+SOB|Tee Chyng Wen|Investment Statistics|QF102
+SOB|Zhao Yibao|Computing Technology for Finance|QF205
+SOB|Ting Hian Ann, Christopher|Quantitative Trading Strategies|QF206
+SOB|Shirley Huang Junying|Global Financial Risk Management|QF305
+SOB|Tee Chyng Wen|Stochastic Finance|QF307
+SOB|Ics Instructors|Shipping Business|TRAD201
+SOA|Yuanto Kusnadi|Accounting Study Mission|ACCT001
+SOA|Zang Yoonseok|Accounting Study Mission|ACCT001
+SOA|Yuanto Kusnadi|Accounting for Entrepreneurs|ACCT002
+SOA|Wang Jiwei|Capital Markets in China|ACCT003
+SOA|Tan Lay Khim|Applied Governance and Risk Management for Student Organizations (SMU-X)|ACCT007
+SOA|Wong Yew Tong|Applied Governance and Risk Management for Student Organizations (SMU-X)|ACCT007
+SOA|Yanju Liu|Financial Accounting|ACCT101
+SOA|Samuel Tan|Financial Accounting|ACCT101
+SOA|Yin Wang|Financial Accounting|ACCT101
+SOA|Zhou Youting|Financial Accounting|ACCT101
+SOA|Tan Lay Khim|Financial Accounting|ACCT101
+SOA|Katherine Yuen|Management Accouting|ACCT102
+SOA|Cheng Nam Sang|Management Accouting|ACCT102
+SOA|Wong Suay Peng|Management Accouting|ACCT102
+SOA|Prasart Jongjaroenkamol|Management Accouting|ACCT102
+SOA|Khoo Teng Aun|Management Accouting|ACCT102
+SOA|Low Lay Chin|Financial Accounting|ACCT111
+SOA|Jimmy Lee Kiat Bee|Management Accounting|ACCT112
+SOA|Zang Yoonseok|Corporate Reporting and Financial Analysis|ACCT201
+SOA|Sean Shin|Corporate Reporting and Financial Analysis|ACCT201
+SOA|Chen Xia|Corporate Reporting and Financial Analysis|ACCT201
+SOA|Wong Suay Peng|Accounting Information Systems|ACCT221
+SOA|Travis Chow|Taxation|ACCT223
+SOA|Goh Beng Wee|Financial Reporting and Analysis|ACCT224
+SOA|Leong Kwong Sin|Ethics and Social Responsibility|ACCT321 
+SOA|Jean Seow|Ethics and Social Responsibility|ACCT321
+SOA|Sterling Huang|Audit and Assurance|ACCT331
+SOA|Lou Yun|Accounting Thought and Practice|ACCT332
+SOA|Zhang Liandong|Accounting Thought and Practice|ACCT332
+SOA|Lim Chee Yeow|Intermediate Financial Accounting|ACCT334
+SOA|Andrew Lee|Intermediate Financial Accounting|ACCT334
+SOA|Pearl Tan Hock Neo|Advanced Financial Accounting|ACCT335
+SOA|Yue Heng|Advanced Financial Accounting|ACCT335
+SOA|Cheng Nam Sang|Strategic Management Accounting|ACCT401
+SOA|Foo See Liang|Governance and Risk Management|ACCT402
+SOA|Sum Yee Loong|Advanced Taxation|ACCT403
+SOA|Gurdip Singh|Corporate Financial Management|ACCT407
+SOA|Cheng Nam Sang|Valuation|ACCT408
+SOA|Lim Soo Ping|Auditing for the Public Sector|ACCT409
+SOA|Foo See Liang|Internal Audit (SMU-X)|ACCT410
+SOA|Benjamin Lee|Accounting Analytics Capstone (SMU-X)|ACCT414
+SOA|Ashok Kumar Balakrishnan|Insolvency and Restructuring|ACCT417
+SOA|Sean Lee|Insolvency and Restructuring|ACCT417
+SOA|Chee Yoh Chuang|Insolvency and Restructuring|ACCT417
+SOA|Clarence Goh|Data Modelling and Visualisation|ACCT418
+SOA|Benjamin Lee|Statistical Programming|ACCT419
+SOA|Wang Jiwei|Forecasting and Forensic Analytics|ACCT420
+SOA|Sanjay Panjabi|Audit Analytics (SMU-X)|ACCT423
+SOA|Tee Chong Yu|Audit Analytics (SMU-X)|ACCT423
+SOL|Adeline Chong|Commercial Conflict of Laws|LAW302
+SOL|Adeline Chong|Law of Equity & Trusts (JD)|LAW303
+SOL|Aleksandar Georgiev|Business Law|LGST101
+SOL|Alvin See|Law of Property|LAW202
+SOL|Alvin See|Law of Equity & Trusts|LAW303
+SOL|Amy Seow|Ethics & Social Responsibility|LGST001
+SOL|Andre Maniam|Pre-trial Practice in Civil Litigation|LAW451
+SOL|Koh Swee Yen|Pre-trial Practice in Civil Litigation|LAW451
+SOL|Lionel Leo|Pre-trial Practice in Civil Litigation|LAW451
+SOL|Aurelio Gurrea Martínez|International and Comparative Insolvency Law|LAW490
+SOL|Aurelio Gurrea Martínez|Financial and Securities Regulation|LAW433
+SOL|Aurelio Gurrea Martínez|Comparative Corporate Governance|LAW494
+SOL|Bala Reddy|Evidence Litigation & the Criminal Process|LAW466
+SOL|Wong Li Tein|Evidence Litigation & the Criminal Process|LAW466
+SOL|Gordon Oh|Evidence Litigation & the Criminal Process|LAW466
+SOL|Ben Ong|Business Law|LGST101
+SOL|Ben Ong|Constitutional & Administrative Law|LAW204
+SOL|Chan Wing Cheong|Family Law|LAW428
+SOL|Chandra Mohan|Criminal Law|LAW103
+SOL|Chandra Mohan|Ethics & Social Responsibility|LAW001
+SOL|Chen Li|Chinese Commercial Arbitration|LAW497
+SOL|Chen Siyuan|Law of Evidence|LAW307
+SOL|Chen Siyuan|International Moots 1|LAW416
+SOL|Chen Siyuan|International Moots 2 [SMU-X]|LAW430
+SOL|Chen Siyuan|Law of Evidence|LAW307
+SOL|Chen Siyuan|International Moots 1|LAW416
+SOL|Chris Chen|Law of Business Organisations|LAW201
+SOL|Chris Chen|Company Law|LGST201
+SOL|Chris Chen|Insurance Law|LAW418
+SOL|Darius Chan/Nicholas Poon|International Commercial Arbitration|LAW406
+SOL|David Llewelyn|Intellectual Property Law|LAW401
+SOL|David Llewelyn|International Commercialisation of Intellectual Property|LAW414
+SOL|David Llewelyn|International Commercialisation of Intellectual Property|LAW414
+SOL|David Smith|Ethics & Social Responsibility (JD)|LAW001
+SOL|David Smith|Ethics & Social Responsibility|LGST001
+SOL|Deborah Koh|Business Law|LGST101
+SOL|Dino Kritsiotis|International Humanitarian Law|LAW488
+SOL|Dominic Liew|Business Law|LGST101
+SOL|Dorcas Quek|Legal Research & Writing I|LAW106
+SOL|Dov Greenbaum|Introduction to Law & Technology|LAW489
+SOL|Edward Ti|Law of Property|LAW202
+SOL|Edward Ti|Law of Real Estate|LGST210
+SOL|Elgin Tay|Jurisprudence: Modern and Critical Theories of Law|LAW420
+SOL|Eugene Tan|Ethics & Social Responsibility|LGST001
+SOL|Eugene Tan|Ethics & Social Responsibility|LGST001
+SOL|Eugene Tan|Constitutional & Administrative Law|LAW204
+SOL|Eugene Tan|Constitutional & Administrative Law|LAW204
+SOL|Eugene Tan|Constitutional & Administrative Law|LAW204
+SOL|Eugene Tan|Ethics & Social Responsibility|LGST001
+SOL|Eunice Chua|Legal Research & Writing I|LAW106
+SOL|Farhana Siddiqui|Drafting in Corporate Practice|LAW459
+SOL|Ralph Lim|Drafting in Corporate Practice|LAW459
+SOL|Lam Shiao Ning|Drafting in Corporate Practice|LAW459
+SOL|Fong Wei Li|Legal Research & Writing I|LAW106
+SOL|Fong Wei Li|Law and Psychology|LAW477
+SOL|Gary Chan|Law of Torts|LAW105
+SOL|Gary Chan|Law of Torts (JD)|LAW105
+SOL|Gary Low|The Singapore Legal System|LAW108
+SOL|Gary Low|Law of International Trade|LAW443
+SOL|Goh Yihan|Contract Law 1|LAW101
+SOL|Henry Gao|Introduction to Chinese History Culture Economics and Law|LAW469
+SOL|Henry Gao|Ethics & Social Responsibility|LGST001
+SOL|Henry Gao|WTO:Law and Policy|LAW410
+SOL|Henry Gao|WTO:Law and Policy|LAW410
+SOL|Ian Teo|Shipping & Admiralty Law|LAW423
+SOL|Toh Kian Sing|Shipping & Admiralty Law|LAW423
+SOL|Kendall Tan|Shipping & Admiralty Law|LAW423
+SOL|James Harris|Legal and Commercial Principles in Project Financing Transactions|LAW449
+SOL|Bruce Schulberg|Legal and Commercial Principles in Project Financing Transactions|LAW449
+SOL|Jeremy Leong|Ethics & Social Responsibility|LGST001
+SOL|Jerrold Soh|Law of Torts|LAW105
+SOL|Jerrold Soh|Business Law|LGST101
+SOL|Jiang Ke Yue|Legal Research & Writing II|LAW107
+SOL|Jiang Ke Yue|Legal Research & Writing II|LAW107
+SOL|Kenny Chng|Legal Theory & Philosophy|LAW301
+SOL|Kenny Chng|Constitutional & Administrative Law (JD)|LAW204
+SOL|Kenny Lau|Business Law|LGST101
+SOL|Kenny Lau|Business Law|LGST101
+SOL|Kevin Yong|Topics in Financial Crime|LAW487
+SOL|Jacky Leong|Topics in Financial Crime|LAW487
+SOL|Jiang Ke Yue|Topics in Financial Crime|LAW487
+SOL|Lau Kah Hee|Law of Evidence|LAW307
+SOL|Lau Kah Hee|Company Law|LGST201
+SOL|Lau Kah Hee|Law of Evidence|LAW307
+SOL|Lau Kwan Ho|Contract Law 2|LAW102
+SOL|Lau Kwan Ho|Contract Law 2|LAW102
+SOL|Lau Kwan Ho|Business Law|LGST101
+SOL|Lee Pey Woan|Corporate Law (JD)|LAW205
+SOL|Lee Pey Woan|Corporate Law|LAW205
+SOL|Lee Pey Woan|Corporate Law (JD)|LAW205
+SOL|Lee Shen Yang|Business Law|LGST101
+SOL|Lionel Leo|Law of Evidence|LAW307
+SOL|Lionel Leo|Law of Evidence|LAW307
+SOL|Liu Kung-Chung|Law and Regulation|LAW483
+SOL|Liu Kung-Chung|IP Law & Comp Law at Interplay|LAW493
+SOL|Liu Kung-Chung|Intellectual Assets & the Law in Asian Economies|LAW463
+SOL|Locknie Hsu|Business Law|LGST101
+SOL|Locknie Hsu|Trade & Investment Law|LAW422
+SOL|Locknie Hsu|Business Law|LGST101
+SOL|Locknie Hsu|Law and Digital Commerce [SMU-X]|LAW491
+SOL|Loo Wee Ling|Business Law|LGST101
+SOL|Loo Wee Ling|Business Law|LGST101
+SOL|Loo Wee Ling|Business Law|LGST101
+SOL|Loo Wee Ling|Ethics & Social Responsibility|LAW001
+SOL|Loo Wee Ling|Ethics & Social Responsibility|LGST001
+SOL|Loo Wee Ling|Ethics & Social Responsibility|LGST001
+SOL|Loo Wee Ling|Ethics & Social Responsibility|LAW001
+SOL|Low Kee Yang|Law of Torts|LAW105
+SOL|Low Kee Yang|Law of Torts|LAW105
+SOL|Maartje De Visser|Comparative Legal Systems|LAW203
+SOL|Maartje De Visser|Comparative Legal Systems (JD)|LAW203
+SOL|Maartje De Visser|Comparative Constitutional Law|LAW470
+SOL|Maartje De Visser|Comparative Legal Systems|LAW203
+SOL|Mahdev Mohan|Public International Law|LAW404
+SOL|Mahdev Mohan|Transnational Business & Human Rights|LAW475
+SOL|Mahdev Mohan|Public International Law|LAW404
+SOL|Mahdev Mohan|Transnational Business & Human Rights|LAW475
+SOL|Makoto Hong|Ethics & Social Responsibility|LGST001
+SOL|Mark Findlay|Legal Theory & Philosophy (JD)|LAW301
+SOL|Mark Findlay|Legal Theory & Philosophy|LAW301
+SOL|Mark Findlay|International and Comparative Criminal Justice|LAW419
+SOL|Melvyn Chew|Company Law|LGST201
+SOL|Melvyn Chew|Company Law|LGST201
+SOL|Nadja Alexander|Professional Mediation Skills|LAW478
+SOL|Nadja Alexander|International Mediation Law and Practice|LAW481
+SOL|Nadja Alexander|Dealmaking and Dispute Resolution: Negotiation in an Age of Disruption|LAW482
+SOL|Nadja Alexander|Professional Mediation Skills|LAW478
+SOL|Nadja Alexander|International Mediation Law and Practice|LAW481
+SOL|Nadja Alexander|Dealmaking and Dispute Resolution: Negotiation in an Age of Disruption|LAW482
+SOL|Nandakumar Ponniya|International Construction Law|LAW447
+SOL|Ng Kim Beng|International Construction Law|LAW447
+SOL|Nicholas Liu|Legal Research & Writing II|LAW107
+SOL|Nicholas Poon|Legal Research & Writing II|LAW107
+SOL|Nick Chiam|Legal Theory & Philosophy|LAW301
+SOL|Ong Ee Ing|Legal Research & Writing I(JD)|LAW106
+SOL|Ong Ee Ing|Legal Research & Writing II|LAW107
+SOL|Ong Ee Ing|Legal Research & Writing II|LAW107
+SOL|Ong Ee Ing|Legal Research & Writing II (JD)|LAW107
+SOL|Ong Ee Ing|Legal Research & Writing II (JD)|LAW107
+SOL|Ong Ee Ing|Launching an Online Financial Business - The Lawyer's Role [SMU-X]|LAW496
+SOL|Linklaters|Launching an Online Financial Business - The Lawyer's Role [SMU-X]|LAW496
+SOL|Warren Chik|Launching an Online Financial Business - The Lawyer's Role [SMU-X]|LAW496
+SOL|Chris Chen|Launching an Online Financial Business - The Lawyer's Role [SMU-X]|LAW496
+SOL|Pasha Hsieh|Ethics & Social Responsibility|LGST001
+SOL|Pasha Hsieh|Law of International Trade|LGST223
+SOL|Pasha Hsieh|Law Study Mission to Asia (Taiwan) [SMU-X]|LAW438
+SOL|Pearlie Koh|Law of Business Organisations (JD)|LAW201
+SOL|Pearlie Koh|Corporate Law|LAW205
+SOL|Pearlie Koh|Corporate Law|LAW205
+SOL|Rathna N. Koman|Criminal Law|LAW103
+SOL|Richard Hayler|Dispute Resolution:The Role of Experts|LAW492
+SOL|Sampson Lim|Business Law|LGST101
+SOL|Samuel Ng|Business Law|LGST101
+SOL|Samuel Ng|Business Law|LGST101
+SOL|Samuel Ng|Ethics & Social Responsibility|LGST001
+SOL|Samuel Ng|Ethics & Social Responsibility|LGST001
+SOL|Samuel Ng|Company Law|LGST201
+SOL|Samuel Ng|Ethics & Social Responsibility|LGST001
+SOL|Saw Cheng Lim|Business Law|LGST101
+SOL|Saw Cheng Lim|Intellectual Property Law|LAW401
+SOL|Saw Teng Sheng|Business Law|LGST101
+SOL|Shaun Pereira|Legal Research & Writing II|LAW107
+SOL|Stephen Bull|Law of Business Organisations|LAW201
+SOL|Stephen Bull|Company Law|LGST201
+SOL|Stephen Bull|Company Law|LGST201
+SOL|Stephen Bull|Corporate Insolvency Law|LAW429
+SOL|Tan Boon Heng|Introduction to Civil Procedure|LAW462
+SOL|Tan Boon Heng|Medical Law and Health Policy|LAW476
+SOL|Tan Boon Heng|Law of Evidence (JD)|LAW307
+SOL|Tan Boon Heng|Introduction to Civil Procedure|LAW462
+SOL|Tan Boon Heng|Law of Evidence|LAW307
+SOL|Tan Seow Hon|Legal Theory & Philosophy|LAW301
+SOL|Tan Weiming|Business Law|LGST101
+SOL|Tay Wei Sheng Patrick|Company Law (MT2)|LGST201
+SOL|Terence Ang|Business Law|LGST101
+SOL|Terence Ang|Business Law|LGST101
+SOL|Tham Chee Ho|Contract Law 1|LAW101
+SOL|Tham Chee Ho|Contract Law 1 (JD)|LAW101
+SOL|Vincent Ooi|Contract Law 2|LAW102
+SOL|Vincent Ooi|Contract Law 2|LAW102
+SOL|Viveganandam Jesudevan|Compliance and Risk Management for Lawyers|LAW495
+SOL|Viveganandam Jesudevan|Compliance and Risk Management for Lawyers|LAW495
+SOL|Wan Wai Yee|Corporate Law|LAW205
+SOL|Wan Wai Yee|Law of Mergers & Acquisitions|LAW417
+SOL|Warren Chik|Privacy and Data Protection Law|LAW486
+SOL|Lanx Goh|Privacy and Data Protection Law|LAW486
+SOL|Wu Ying-chieh|Comparative Legal Systems|LAW203
+SOL|Wu Ying-chieh|Comparative Legal Systems|LAW203
+SOL|Yao Qingzhe|Business Law|LGST101
+SOL|Yeo Chuan Tat|Ethics & Social Responsibility|LGST001
+SOL|Yeo Tiong Min|Commercial Conflict of Laws (JD)|LAW302
+SOL|Yeo Tiong Min|Contract Law 2 (JD)|LAW102
+SOL|Yeo Tiong Min|Commercial Conflict of Laws|LAW302
+SOL|Yeo Tiong Min|Commercial Conflict of Laws|LAW302
+SOL|Yip Man|Law of Equity & Trusts|LAW303
+SOL|Yip Man|Law of Equity & Trusts|LAW303
+SOL|Zhang Wei|Chinese Contract Law|LAW402
+SOL|Zhang Wei|Economic Analysis of Law|LAW484
+SOL|Zhang Wei|Law Study Mission to Asia (Beijing) [SMU-X]|LAW438
+SOL|Zhong Zewei|Business Law|LGST101
